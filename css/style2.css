@@ -1,0 +1,101 @@
+body,
+button,
+input,
+select,
+textarea {
+	color: #1f1402;
+	
+	font-family: Verdana, Haettenschweiler,sans-serif;
+	
+}
+body{
+	background:#fffffe url(../images/resto/chambre-comfort.jpg);
+	background-repeat: no-repeat;
+	color:#1f1402;
+	
+}
+
+.navbar{
+	background-color:none;
+}
+
+
+
+
+#navppl{
+
+	background:#1f1402;
+}
+
+p{
+	font-family: sans-serif;
+	line-height: 300%;
+}
+.script-mt-titre{
+	font-family:Pristina;
+	color:#1f1402;
+	font-size:600%;
+	
+	
+}
+.script-mt{
+	font-family:Pristina;
+	color:#1f1402;
+	font-size:500%;
+	text-shadow:  rgb(255,255,255,0.4) 2px 3px 2 rgb(31,20,2,0.4) 2px 30px 20px 1px;px 1px;
+	
+}
+
+#fond-transparent{
+	background: #1f1402 url(../images/fond-trans.png) repeat-x;
+line-height: 120%; 
+box-shadow: rgb(31,20,2,0.4) 2px 30px 20px 1px;
+}
+button{
+
+border-radius:20px;
+padding: 5px;
+background-color: #1f1402;
+}
+header button{
+	box-shadow:none;
+	background-color: #c9a686;
+
+}
+
+#image-thumbnail{
+
+	border:5px #553604 solid;
+	border-radius: 50%;
+	box-shadow: rgb(31,20,2,0.4) 2px 30px 20px 1px;
+}
+.menu{
+	text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+	background-color:#1f1402;
+	border-radius: 10px;
+	padding: 5px;
+	margin-top: 10px;
+}
+a:hover{
+	
+	opacity: 80%;
+
+	
+}
+#description img{
+	box-shadow: rgb(31,20,2,0.4) 2px 30px 20px 1px;
+}
+#foot-page{
+
+	background-color: #1f1402;
+	height:300;
+}
+footer img{
+	box-shadow: rgb(31,20,2,0.4) 2px 10px 5px 1px;
+}
+
+
+
+

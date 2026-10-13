@@ -1,0 +1,29 @@
+	/*transition*/
+
+	#bouton:hover{
+
+border-raduis:20%;
+background-color:#ccc;
+	}
+#bouton{
+transition:2s;
+	/*transition-property:border-color;*/
+	 
+
+transition-property:all;
+/*retarder la transition*/
+transition-delay:1s;
+
+}	
+
+#bouton2{
+	transition-duration:3s;
+	transition-timing-function:linear,ease,ease-in,ease-out,ease-in-out;
+}
+#bouton2:hover{
+transform:translatex(800px);
+transform:scaleX(1.5)/*Agrandir sur axe X*/
+transform:skewY(-45deg)/*tordre*/
+transform:translateY(-20px)/*deplace*/
+	
+}
