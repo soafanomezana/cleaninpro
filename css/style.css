@@ -230,6 +230,19 @@ a:hover{
 		opacity:1;
 	}
 }
+
+#li4 img:hover,
+#li5 img:hover,
+#li6 img:hover,
+#li7 img:hover,
+#li8 img:hover,
+#li9 img:hover
+{
+
+opacity: 0.7;
+
+
+}
 footer{
 	margin-bottom: 0;
 	background-image:linear-gradient(to left,#e94f1d,#f19a0f);

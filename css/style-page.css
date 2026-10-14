@@ -27,10 +27,7 @@ body{
 header{
 	background:#e94f1d; 
 }
-.logo{
-filter: drop-shadow(#fff 10px 5px 4px);
 
-}
 h1{
 	text-transform: uppercase;
 	font-family: sans-serif;
