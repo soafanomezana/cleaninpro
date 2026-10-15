@@ -39,7 +39,9 @@ text-transform: uppercase;
 font-family: 'sans-serif';
 
 }
-
+.fond-orange{
+	background: #fb6107;
+}
 
 #rond{
 	background: #e84e1c ;
@@ -110,7 +112,10 @@ a:hover{
 	text-decoration: none;
 	color:#000;
 }
+.bordure-droite{
 
+
+}
 
 #li1 {
 	opacity:0;
