@@ -22,7 +22,7 @@ body{
 	background-image:linear-gradient(to right,#d8d8d8,#a09f9b);
 	background:#d8d8d8 url(../images/fond-desinfectant2.jpg)no-repeat center left ;
 
-	margin: 0;
+	overflow-x: hidden;
 
 	
 	
