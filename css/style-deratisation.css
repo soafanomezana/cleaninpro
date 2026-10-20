@@ -102,6 +102,11 @@ ul li{
 	animation-delay: 1.5s;
 
 }
+.ombre{
+	text-shadow: 1px 1px 1px #000;
+
+}
+
 .fond-transparent{
 	background: url(../images/fond-transparent.png) repeat-x  ;
 	
