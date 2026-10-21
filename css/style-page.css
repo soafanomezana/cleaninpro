@@ -67,11 +67,9 @@ h4{
 	font-size: 1em;
 	font-color:#fff;
 }
-#rond{
-	background: #e84e1c ;
-    background-image:linear-gradient(to right,#e94f1d,#f19a0f);
-	border-radius: 50%;
+.rond{
 	
+	box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
 }
 .losange{
 border-radius: 0px 50px 0px 50px;

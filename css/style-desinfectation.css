@@ -102,41 +102,36 @@ ul li{
 		opacity:1;
 }
 }
-#li6{
+#li3,#li4,#li5{
 
-	background:#e94f1d url(../images/desinfectation-locaux.jpg)no-repeat ;
-	background-size:cover;
-	height: 600px;
-	border-radius:  50px 0px 50px 0px ;
+	box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
 	
-
-
-}
-#li7{
-
-	background:#e94f1d url(../images/controle-infestation.jpg)no-repeat ;
-	background-size: cover;
-	height: 600px;
-	border-radius:  50px 0px 50px 0px ;
 	
+	}
+#li6,#li7,#li8{
 
-}
-#li8{
-
-	background:#e94f1d url(../images/traitement-exterieur.jpg)no-repeat ;
-	background-size: cover;
-	height: 600px;
-	border-radius:  50px 0px 50px 0px ;
+	position: relative;
+display: inline-block;
 	
-
-
-}
+	
+	
+	}
+#li6 img,
+#li7 img,
+#li8 img{
+border-radius:  50px 0px 50px 0px ;
+box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+} 
 
 #li6 h3,
 #li7 h3,
 #li8 h3{
 	font-size: 1em;
 	font-weight: bold;
+	position: absolute;
+top: 5%;
+
+
 }
 #contact ul li{
 	list-style: none;
